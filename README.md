@@ -11,3 +11,11 @@
 ![starts](https://shields.io/github/stars/HighValyrian/flappy_Game)
 
 Welcome to Flappy Dragon！
+
+## content
+
+
+<p align="center">
+<img src="assets/end.png" width="240">
+</p>
+<br/>

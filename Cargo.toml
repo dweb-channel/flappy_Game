@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 bracket-lib = "~0.8.7"
+image = "0.24.5"
